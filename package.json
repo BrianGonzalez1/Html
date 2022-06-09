@@ -1,0 +1,14 @@
+{
+  "name": "temporaria2",
+  "version": "1.0.0",
+  "description": "Este va a ser un proyecto que va a replicar un servidor con nodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
